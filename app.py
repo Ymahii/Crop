@@ -40,7 +40,7 @@ def showdata():
     for i in x:
         p={}
         p["Nitrogen"]=i[0]
-        p["Phosporus"]=i[1]
+        p["Phosphorus"]=i[1]
         p["Potassium"]=i[2]
         p["Temperature"]=i[3]
         p["Humidity"]=i[4]
